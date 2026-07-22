@@ -47,4 +47,4 @@ Thanks for stopping by!
 
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=otsoko)](https://www.readmecodegen.com/custom-github-card-generator)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Otsoko&layout=compact&langs_count=4&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api/top-langs?username=Otsoko&layout=compact&langs_count=4&theme=one_dark_pro)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=otsoko&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
